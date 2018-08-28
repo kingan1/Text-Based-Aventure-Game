@@ -1,0 +1,18 @@
+1 pt: basic rooms and descriptions
+	All of my rooms (12 total) have names and descriptions of what the companion thinks about the room
+1pt - rooms can have characters/monsters in them (you can only claim this point if it is possible to interact with them)
+	The dining room has a friendly character, the bar has a friendly character and throughout the map there are 2 monsters
++1pt - rooms can have items/objects (you can only claim this point if it is possible to interact with them)
+	The character can pick up swords and other items at the bar and in the dungeon, and loot
++1pt - your map can change as you play (in response to events or player actions)
+	If a player chooses to go up stairs, that room is no longer there and the jail locks the player out if they enter
++1pt - there are other characters in the world with whom the player can interact
+	The player can choose to have a new companion with them
++1pt - there are entities that are aggressive to the player. 
+	There are 2 monsters that will attack the player/companion
+1pt - if the player has the ability to fight using simple mechanics like random numbers to see whether they win
+	I used a random number generator to see if the player/companion swings or if the monster swings
+1pt - Game has an end, preferably a "win" and "lose" condition.
+	You win if you get to the end and defeat the monster, lose if you die/run out of cash
+
+Written in python
